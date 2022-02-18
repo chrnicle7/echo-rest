@@ -48,18 +48,3 @@ UPLOAD_FOLDER = 'static/uploads/'
 
 JWT_SECRET_KEY=secret-
 ```
-
-Install packages
-```
-npm install
-```
-
-Then run with the command
-```
-npm start
-```
-
-Open this link on your browser or use Postman instead.
-```
-http:://127.0.0.1:{yourPort}/books
-```
